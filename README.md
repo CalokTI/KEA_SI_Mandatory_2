@@ -19,3 +19,10 @@
     Add "http://localhost:3000/auth/google/callback" as an Authorized redirect URI (replace "localhost:3000" with your application's domain and port if different).
     Click the "Create" button.
     Your client_id and client_secret will be displayed on the next page. Copy and paste them into your .env file.
+
+
+### Part_2
+
+#### Webscraber
+
+    The webscraber gathers from the list imdb provides of the top 250 movies based on rating, and prints it to the console.
